@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nikolas 👋  
+### Senior Business Analyst | SQL • Python • Power BI • Risk & Trading Analytics
 
-<!--
-**nik-banking-analytics/nik-banking-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio!  
+I specialize in business and data analysis across **banking, trading and consulting environments**, with 15+ years of experience delivering complex projects for top-tier institutions (EY, Deloitte, HSBC, RBS).
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools
+- **SQL** – advanced querying, KPIs, reporting
+- **Python (pandas, matplotlib)** – risk analysis, forecasting, PnL simulation
+- **Power BI** – dashboards, DAX, risk monitoring
+- **Excel/VBA** – automation, scenario planning, resource modelling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projects You'll Find Here
+- 🧮 **Credit Risk Flagging** (SQL)
+- 📊 **PnL Analysis & FX Trading Strategy** (Python)
+- 📈 **Risk KPIs Dashboards** (Power BI)
+- 📎 **Enterprise Demand Forecasting Tool** (Excel/VBA)
+
+## 🔗 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/nikolaspsarris)
+- 📧 nikolaspsarris@gmail.com
